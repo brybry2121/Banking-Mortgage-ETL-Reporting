@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.36123.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "mortgage_project2026", "mortgage_project2026\mortgage_project2026.dtproj", "{70E05564-C0C3-485A-B7DF-5FF8AC2EA6BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E05564-C0C3-485A-B7DF-5FF8AC2EA6BD}.Development|Default.ActiveCfg = Development
+		{70E05564-C0C3-485A-B7DF-5FF8AC2EA6BD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06EFD3A1-16DF-41C3-87E7-F81A3ABF683F}
+	EndGlobalSection
+EndGlobal
